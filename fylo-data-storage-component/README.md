@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click to reach solution](https://your-solution-url.com)
-- Live Site URL: [Click to reach live site](https://your-live-site-url.com)
+- Solution URL: [Click to reach solution](https://enchanting-belekoy-3be9a3.netlify.app/)
+- Live Site URL: [Click to reach live site](https://github.com/nuribugra/Frontend-Mentor-Challenges/tree/main/fylo-data-storage-component)
 
 ## My process
 
