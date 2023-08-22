@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click to reach solution](https://your-solution-url.com)
-- Live Site URL: [Click to reach live site](https://your-live-site-url.com)
+- Solution URL: [Click to reach solution](https://www.frontendmentor.io/solutions/responsive-result-summary-domponent-css-flexbox-ePvk3avc1Y)
+- Live Site URL: [Click to reach live site](https://result-summary-component-2023.netlify.app/)
 
 ## My process
 
