@@ -12,8 +12,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click to reach solution](https://www.frontendmentor.io/solutions/profile-card-component-css-flexbox-DA0el2WrZs)
+- Live Site URL: [Click to reach live site](https://radiant-elf-5a23c3.netlify.app/)
 
 ## My process
 

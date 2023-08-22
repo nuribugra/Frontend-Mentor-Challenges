@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click to reach solution](https://your-solution-url.com)
-- Live Site URL: [Click to reach live site](https://your-live-site-url.com)
+- Solution URL: [Click to reach solution](https://www.frontendmentor.io/solutions/order-summary-card-css-flexbox-H3b5OpnG0O)
+- Live Site URL: [Click to reach live site](https://beamish-frangollo-241c60.netlify.app/)
 
 ## My process
 
